@@ -1,0 +1,7 @@
+
+
+git init 
+git add <filename>
+git commite ''
+git remote origin 
+git git push 
